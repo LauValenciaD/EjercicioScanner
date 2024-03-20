@@ -1,4 +1,5 @@
 Ejercicio:
+
 Se debe crear una clase myScanner la cual  se encargue de gestionar la obtención de datos por teclado. Para ello Tendremos que realizar lo siguiente:
 crear un atributo del tipo scanner
 crear por ahora 4 métodos:
